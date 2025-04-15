@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AD4858")(type "KiCad")(uri "C:/Users/SGuduru2/OneDrive - Analog Devices, Inc/Documents/Kicad_Projects/AD4858_breakoutBoard_Rev0.1/Project_Libraries/ul_AD4858BBCZ/KiCADv6/2025-03-24_16-58-48.kicad_sym")(options "")(descr ""))
+  (lib (name "Con_SMA_1")(type "KiCad")(uri "C:/Users/SGuduru2/OneDrive - Analog Devices, Inc/Documents/Kicad_Projects/AD4858_breakoutBoard_Rev0.1/Project_Libraries/ul_142-0701-801/KiCADv6/2025-03-26_14-57-19.kicad_sym")(options "")(descr ""))
+)
